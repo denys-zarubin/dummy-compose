@@ -1,5 +1,5 @@
 services:
   proxy:
-    image: nginx:1.26-alpine3.20
+    image: nginx:1.27-alpine3.20
     ports:
       - 80:80
